@@ -29,8 +29,5 @@ Valores sensibles que configuramos o guardamos fuera del codigo y se usan para n
 
 -Jose Manuel Carvajal: Mas que todo tareas de auditoria que no involucren valga la redundancia tareas muy criticas, automatizacion de procesos dentro de la organizacion, poder digitalizar procesos que sean manuales dentro de una organizacion, y uso de la IA para tareas no criticas, en terminos de programacion la de claude me parece interesante pero teniendo en cuenta que siempre alguien debe auditar lo que vaya a hacer esta herramienta.
 
--Santiago Mesa: Profe, esta plataforma no la conocía y me llamó mucho la atención la forma en la que se pueden automatizar varias tareas del ciclo de vida de desarrollo de software. Yo recomendaría en mi empresa que automaticen los test que se hacen en el CI y la utilizaría para automatizar el code review de los PR, ya que esto permitiría ser más eficiente al equipo de desarrollo.
-
-
-
+-Santiago Mesa: Profe, no conocía GitHub Actions y me llamó la atención lo sencillo que resulta automatizar tareas del ciclo de vida del software. En mi trabajo, que se centra en integraciones de un sistema de nómina con sistemas contables, automatizaría la ejecución de pruebas en cada pull request para que ningún cambio llegue a la rama de producción sin validarse. También validaría automáticamente la estructura de los archivos planos que generan las integraciones, pues hoy muchos errores de formato se descubren cuando el cliente intenta cargarlos. Finalmente, usaría análisis estático y reportes de cobertura como apoyo al code review, sin reemplazar la revisión humana, para que el equipo se concentre en la lógica de negocio. En conjunto, esto haría al equipo más eficiente y reduciría los errores que hoy detectamos tarde y que más afectan a los clientes.
 
